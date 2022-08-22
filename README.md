@@ -19,7 +19,7 @@ This is an assignment given in **"JavaScript Full Stack Web Developer Bootcamp"*
 
 <br>
 
-![Screenshot](./assets/screenshot.png?raw=true "Template Screenshot")
+![Screenshot](./1.png?raw=true "Template Screenshot")
 
 ## 📌 My process
 
