@@ -1,0 +1,150 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar-container img
+{
+    float: left;
+    margin-left: 80px;
+    margin-top: 80px;
+    height: 1.2cm;
+    padding: 0;
+}
+
+.navbar-container
+{
+    list-style-type: none;
+    background-color: #feffff;
+    margin-top: -1cm;
+}
+
+.navbar-container ul
+{
+    overflow: auto;
+    margin-left: 380px;
+    padding: 75px 25px;
+}
+
+.navbar-container li
+{
+    margin-left: 80px;
+    margin-top: 20px;
+    list-style-type: none;
+    font-family:monospace;
+    font-size: x-large;
+    float: left;
+}
+
+.list a:hover {
+    background-color:blue;
+}
+
+div .search-icon
+{
+    margin-top: -93px;
+    margin-right: 240px;
+    float: right;           
+}
+
+div .nav-button
+{
+    margin-top: -95px;
+    margin-right: 90px;
+    padding: 6px 45px;
+    border-radius: 9px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    float: right;
+}
+
+.square img
+{
+    margin-left: 3.9cm;
+    margin-bottom: -3cm;
+}
+
+.star img
+{
+    float:right;
+    margin-right: 100px;
+    height: 1cm;
+}
+
+.globe img
+{
+    margin-bottom: 10cm;
+    margin-left: 6cm;
+    height: 1.5cm;
+}
+
+div #hero
+{   
+    margin-top: -12cm;
+    margin-left: 2.1cm;
+}
+
+h1
+{   
+    margin-left: 17cm;
+    margin-top: -10cm;
+    font-family:'Courier New', Courier, monospace;
+    font-size:1.4cm;
+}
+
+p
+{
+    float: right;
+    margin-left: 18cm;
+    margin-right: 4.5cm;
+    margin-top: 1cm;
+    text-align: center;
+    font-family:monospace;
+}
+
+
+
+div .button-email
+{
+    font-family:monospace;
+    float: right;
+    margin-right: 13cm;
+    margin-top: 2.3cm;
+    padding-left: 40px;
+    padding-right: 35px;
+    block-size: 0.9cm;
+    border-radius: 10px;
+    font-size: x-large;
+}
+
+
+div .button-join
+{
+    float: right;
+    font-family:monospace;
+    margin-right: -10cm;
+    margin-top: 2.3cm;
+    padding-left: 20px;
+    padding-right: 20px;
+    block-size: 0.9cm;
+    border-radius: 10px;
+    background-color: black;
+    color:white;
+    font-size: x-large;
+}
+
+h4
+{
+    float: right;
+    margin-right: -6.5cm;
+    margin-top: 6cm;
+    font-size:large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div .icons
+{
+    float: right;
+    margin-right: -7.5cm;
+    margin-top: 7cm;
+}
